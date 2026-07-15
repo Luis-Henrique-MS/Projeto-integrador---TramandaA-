@@ -12,7 +12,7 @@ TramandaAí é um projeto de autoria dos alunos Luís Henrique Maicá de Souza e
 
 Ao escanear QR codes espalhados por Tramandaí, os usuários terão acesso a uma página com:
 
-- galeria de fotos;
+- foto do ponto turístico;
 - descrição do local;
 - endereço;
 - horário de funcionamento;
@@ -29,7 +29,7 @@ O sistema contará com as seguintes funcionalidades:
 - Página inicial com artigos e destaques sobre os pontos turísticos;
 - Página de detalhes do ponto turístico, contendo: (descrição, endereço, horário de funcionamento, galeria de fotos e mapa);
 - Painel administrativo com CRUD completo para gerenciamento dos pontos turísticos;
-- Página institucional “Sobre a cidade”;
+- Página institucional “Sobre o ponto turístico”;
 - Página de feedback;
 - Layout totalmente responsivo, pensado para dispositivos móveis.
 
